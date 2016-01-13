@@ -1,0 +1,28 @@
+name: dancowan
+favicon: null
+layout_spectrum: 0.1612360063008964
+typography_spectrum: 0.1487017977051437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18339556688442826
+  lightness: 0.22534259920939803
+  saturation: 0.7218002744484693
+  rhythmicContrast: 0.2675191452726722
+purpose: []
